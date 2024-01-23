@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #07080c;
+  height: 100vh;
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+img {
+  width: 50%;
+}
+.heading {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 40px;
+}
+.para {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 30px;
+}
+.para2 {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-size: 30px;
+}
+.buttonContainer {
+  display: flex;
+  flex-direction: row;
+}
+.btn2 {
+  margin-left: 10px;
+  background-color: transparent;
+  color: #cbd5e1;
+  border: #94a3b8 solid 1px;
+}
